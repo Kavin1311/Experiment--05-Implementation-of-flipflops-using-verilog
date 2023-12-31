@@ -164,7 +164,7 @@ endmodule
 ### RTL LOGIC FOR FLIPFLOPS :
 
 ## SR FLIP-FLOP:
-![image](https://github.com/Kavin1311/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145695724/a8e609fd-54be-4e4b-9771-830f30bf70ce)
+![image](https://github.com/Kavin1311/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145695724/9fea0579-691d-4656-bba4-3c7424a8a104)
 
 ## D FLIP-FLOP:
 ![image](https://github.com/Kavin1311/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145695724/bb8852e6-4686-41f3-8158-6b60147d28a2)
