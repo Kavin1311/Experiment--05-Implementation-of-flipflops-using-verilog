@@ -108,8 +108,11 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 ### Procedure
 1.Using nand gates and wires construct sr flip flop.
+
 2.Repeat same steps to construct JK,D,T flipflops.
+
 3.Find Rtl logic and timing diagram for all flipflops.
+
 4.end the program
 
 ### PROGRAM 
